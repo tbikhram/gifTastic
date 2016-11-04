@@ -1,0 +1,24 @@
+body{
+	background-image: url(https://d3thflcq1yqzn0.cloudfront.net/000494946_prevstill.jpeg);
+
+}
+
+h1{
+	text-shadow: 2px, 3px, 3px;
+	color: white;
+	text-shadow: 3px 3px  pink; 
+}
+label{
+	color: white;
+	font-size: 18px;
+}
+
+#line{
+	width: 960px;
+	
+}
+
+.container{
+	float: left;
+	text-align: left;
+}
